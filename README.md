@@ -8,14 +8,14 @@
   - женщина 2 (дизайнер)
 
  ## бекэнд 
- -URL https://ewezhgaeyjsgdullftdd.supabase.co
- -юзеры admin@giper.fm: пароль adminpass 
- -emp1@giper.fm  пароль emp1pass
- -admin2@giper.fm   пароль HjTyK3Z1dyNdkkzt
- -admin3@giper.fm пароль HjTyK3Z1dyNdkkzt
- -emp2@giper.fm пароль HjTyK3Z1dyNdkkzt
- -emp3@giper.fm пароль HjTyK3Z1dyNdkkzt
- -admin4@giper.fm: пароль HjTyK3Z1dyNdkkzt
+ - URL https://ewezhgaeyjsgdullftdd.supabase.co
+ - юзеры admin@giper.fm: пароль adminpass 
+ - emp1@giper.fm  пароль emp1pass
+ - admin2@giper.fm   пароль HjTyK3Z1dyNdkkzt
+ - admin3@giper.fm пароль HjTyK3Z1dyNdkkzt
+ - emp2@giper.fm пароль HjTyK3Z1dyNdkkzt
+ - emp3@giper.fm пароль HjTyK3Z1dyNdkkzt
+ - admin4@giper.fm: пароль HjTyK3Z1dyNdkkzt
 
 
  ## инструкция к запуску 
