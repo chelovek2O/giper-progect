@@ -16,8 +16,7 @@
  -emp2@giper.fm пароль HjTyK3Z1dyNdkkzt
  -emp3@giper.fm пароль HjTyK3Z1dyNdkkzt
  -admin4@giper.fm: пароль HjTyK3Z1dyNdkkzt
- -API:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIs
-  InJlZiI6ImV3ZXpoZ2FleWpzZ2R1bGxmdGRkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTIzMTIyMjUsImV4cCI6MjAyNzg4ODIyNX0.cKcHptT6WW7u9N5m-58E2WmQV1fU8mVbIL4-Hc11PnY
+
 
  ## инструкция к запуску 
   - URL  https://relaxed-flan-8b6044.netlify.app/products?pageSize=10&current=1
